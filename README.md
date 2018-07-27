@@ -3,6 +3,7 @@ This repository contains the demo samples that demonstrates various features of 
 
 ## Samples by Category
 
+
 <table>
   <tr>
     <td colspan="3" rowspan="1">
@@ -28,162 +29,10 @@ This repository contains the demo samples that demonstrates various features of 
 <td/>
 <td/>
 </tr>
-<tr>
-    <td colspan="3" rowspan="1">
-    <b>DATA VISUALIZATION<b>
-    </td>
-</tr>   
-      <tr>
-<td>
-<a href="SfChart">Chart</a>
-</td>
-<td>
-<a href="SfSunburstChart">Sunburst Chart</a>
-</td>
-<td>
-<a href="SfSmithChart">Smith Chart</a>
-</td>
-
-</tr>
-  <tr>
-  <td>
-<a href="SfKanban">Kanban</a>
-</td>
-
-  <td>
-<a href="SfGantt">Gannt</a>
-</td>
-<td>
-<a href="Barcode">Bar Code</a>
-</td>
-
-
-</tr>
-  <tr>
-  <td>
-<a href="Diagram">Diagramming</a>
-</td>
-<td>
-<a href="MapControl">Maps</a> 
-</td>
-  <td>
-<a href="TreeMap">Tree Map</a>
-</td>
-
-
-</tr>
-   <tr>
-   <td>
-<a href="ImageEditor">Image Editor</a>
-</td>
-<td>
-<a href="SfRangeNavigator">Range Navigator</a>
-</td>
-<td>
-<a href="SfSparkline">Sparkline</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="Schedule">Scheduler</a>
-</td>
-<td>
-<a href="Gauge">Radial Gauge</a>
-</td>
-<td>
-<a href="Gauge">Linear Gauge</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="Gauge">Digital Gauge</a>
-</td>
-<td>
-<a href="BulletGraph">Bullet Graph</a>
-</td>
-<td>
-<a href="HeatMap">Heat Map</a>
-</td>
-</tr>
-<tr>
-    <td colspan="3" rowspan="1">
-    <b>BUSINESS INTELLIGENCE<b>
-    </td>
-</tr>   
-      <tr>
-<td>
-<a href="PivotChart">Pivot Chart</a>
-</td>
-<td>
-<a href="PivotGrid">Pivot Grid</a>
-</td>
-<td>
-<a href="PivotGauge">Pivot Gauge</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="PivotClient">Pivot Client(Preview)</a>
-</td>
-<td/>
-<td/>
-<tr>
-    <td colspan="3" rowspan="1">
-    <b>FILE FORMATS<b>
-    </td>
-</tr>  
-<tr>
-<td>
-<a href="XlsIO">Excel</a>
-</td>
-<td>
-<a href="PDF">PDF</a>
-</td>
-<td>
-<a href="DocIO">Word</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="PdfViewer">PDF Viewer</a>
-</td>
-<td>
-<a href="Presentation">Power Point</a>
-</td>
-  <td/>
-</tr>
-      
-<tr>
-<td colspan="3" rowspan="1">
-<b>NAVIGATION<b>
-</td>
-</tr>  
-
-<tr>
-<td>
-<a href="TabControl">Tab</a>
-</td>
-<td>
-<a href="RadialMenu">Radial Menu</a>
-</td>
-<td>
-<a href="Navigation">Tree Navigator</a>
-</td>
-</tr>
-<tr>
-  <td>Rotator</td>
-<td>
-<a href="GroupBar">Group Bar</a>
-</td>
-<td colspan="2" rowspan="1">
-<a href="Menu">Menu</a>
-</td>
-</tr>
 
 <tr>
     <td colspan="3" rowspan="1">
-    <b>EDITORS<b>
+    <b>INPUT CONTROLS<b>
     </td>
 </tr>
 <tr>
@@ -268,6 +117,86 @@ Radial Slider
   <td/>
   </tr>
 
+
+<tr>
+    <td colspan="3" rowspan="1">
+    <b>DATA VISUALIZATION<b>
+    </td>
+</tr>   
+      <tr>
+<td>
+<a href="SfChart">Chart</a>
+</td>
+<td>
+<a href="SfSunburstChart">Sunburst Chart</a>
+</td>
+<td>
+<a href="SfSmithChart">Smith Chart</a>
+</td>
+
+</tr>
+  <tr>
+  <td>
+<a href="SfKanban">Kanban</a>
+</td>
+
+  <td>
+<a href="SfGantt">Gannt</a>
+</td>
+<td>
+<a href="Barcode">Bar Code</a>
+</td>
+
+
+</tr>
+  <tr>
+  <td>
+<a href="Diagram">Diagramming</a>
+</td>
+<td>
+<a href="MapControl">Maps</a> 
+</td>
+  <td>
+<a href="TreeMap">Tree Map</a>
+</td>
+
+
+</tr>
+   <tr>
+   <td>
+<a href="ImageEditor">Image Editor</a>
+</td>
+<td>
+<a href="SfRangeNavigator">Range Navigator</a>
+</td>
+<td>
+<a href="SfSparkline">Sparkline</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="Schedule">Scheduler</a>
+</td>
+<td>
+<a href="Gauge">Radial Gauge</a>
+</td>
+<td>
+<a href="Gauge">Linear Gauge</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="Gauge">Digital Gauge</a>
+</td>
+<td>
+<a href="BulletGraph">Bullet Graph</a>
+</td>
+<td>
+<a href="HeatMap">Heat Map</a>
+</td>
+</tr>
+
 <tr>
     <td colspan="3" rowspan="1">
     <b>LAYOUT<b>
@@ -293,7 +222,33 @@ Radial Slider
 </td>
 <td/>
 </tr>
-      
+
+<tr>
+<td colspan="3" rowspan="1">
+<b>NAVIGATION<b>
+</td>
+</tr>  
+
+<tr>
+<td>
+<a href="TabControl">Tab</a>
+</td>
+<td>
+<a href="RadialMenu">Radial Menu</a>
+</td>
+<td>
+<a href="Navigation">Tree Navigator</a>
+</td>
+</tr>
+<tr>
+  <td>Rotator</td>
+<td>
+<a href="GroupBar">Group Bar</a>
+</td>
+<td colspan="2" rowspan="1">
+<a href="Menu">Menu</a>
+</td>
+</tr>
 <tr>
  <td colspan="3" rowspan="1">
   <b>NOTIFICATION<b>
@@ -312,6 +267,69 @@ Radial Slider
 </td>
 </tr>
 
+<tr>
+    <td colspan="3" rowspan="1">
+    <b>FILE FORMATS<b>
+    </td>
+</tr>  
+<tr>
+<td>
+<a href="XlsIO">Excel</a>
+</td>
+<td>
+<a href="PDF">PDF</a>
+</td>
+<td>
+<a href="DocIO">Word</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="PdfViewer">PDF Viewer</a>
+</td>
+<td>
+<a href="Presentation">Power Point</a>
+</td>
+  <td/>
+</tr>
+
+<tr>
+ <td colspan="3" rowspan="1">
+  <b>REPORTING<b>
+ </td>
+</tr>
+<tr>
+<td>
+<a href="ReportViewer">Report Viewer</a>
+</td>
+<td/>
+<td/>
+</tr>
+
+<tr>
+    <td colspan="3" rowspan="1">
+    <b>BUSINESS INTELLIGENCE<b>
+    </td>
+</tr>   
+      <tr>
+<td>
+<a href="PivotChart">Pivot Chart</a>
+</td>
+<td>
+<a href="PivotGrid">Pivot Grid</a>
+</td>
+<td>
+<a href="PivotGauge">Pivot Gauge</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="PivotClient">Pivot Client(Preview)</a>
+</td>
+<td/>
+<td/>
+</tr>
+      
 <tr>
  <td colspan="3" rowspan="1">
   <b>MISCELLANEOUS<b>
@@ -340,16 +358,5 @@ Radial Slider
 <td/>
 </tr>
 
-<tr>
- <td colspan="3" rowspan="1">
-  <b>REPORTING<b>
- </td>
-</tr>
-<tr>
-<td>
-<a href="ReportViewer">Report Viewer</a>
-</td>
-<td/>
-<td/>
-</tr>
+
 </table>
