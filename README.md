@@ -3,7 +3,6 @@ This repository contains the demo samples that demonstrates various features of 
 
 ## Samples by Category
 
-
 <table>
   <tr>
     <td colspan="3" rowspan="1">
@@ -17,16 +16,6 @@ This repository contains the demo samples that demonstrates various features of 
 <td>
 <a href="SfTreeGrid">Tree Grid</a>
 </td>
-<td>
-<a href="SfCellGrid">Cell Grid</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="SfSpreadsheet">Spreadsheet</a>
-</td>
-
-<td/>
 <td/>
 </tr>
 
@@ -43,10 +32,8 @@ This repository contains the demo samples that demonstrates various features of 
 <a href="Editors/Controls/ComboBox">Combo Box</a>
 </td>
 <td>
-<a href="RichTextEditor">Rich Text Box</a>
+<a href="SfCellGrid">Cell Grid</a>
 </td>
-
-
 </tr>
   <tr>
   <td>
@@ -103,6 +90,7 @@ This repository contains the demo samples that demonstrates various features of 
   <td>
 Radial Slider
 </td>
+
 <td>
 <a href="ColorPickers/View">Color Picker</a>
 </td>
@@ -249,6 +237,27 @@ Radial Slider
 <a href="Menu">Menu</a>
 </td>
 </tr>
+
+<tr>
+ <td colspan="3" rowspan="1">
+  <b>EDITORS AND VIEWERS<b>
+ </td>
+</tr>
+
+<tr>
+<td>
+<a href="SfSpreadsheet">Spreadsheet</a>
+</td>
+
+<td>
+<a href="RichTextEditor">Rich Text Box</a>
+</td>
+
+<td>
+<a href="PdfViewer">PDF Viewer</a>
+</td>
+</tr>
+
 <tr>
  <td colspan="3" rowspan="1">
   <b>NOTIFICATION<b>
@@ -285,11 +294,9 @@ Radial Slider
 </tr>
 <tr>
 <td>
-<a href="PdfViewer">PDF Viewer</a>
-</td>
-<td>
 <a href="Presentation">Power Point</a>
 </td>
+  <td/>
   <td/>
 </tr>
 
