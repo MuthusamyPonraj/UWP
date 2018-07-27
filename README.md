@@ -162,7 +162,7 @@ This repository contains the demo samples that demonstrates various features of 
 
 <tr>
 <td>
-<a href="TabControl">Tab Control</a>
+<a href="TabControl">Tab</a>
 </td>
 <td>
 <a href="RadialMenu">Radial Menu</a>
@@ -201,7 +201,7 @@ This repository contains the demo samples that demonstrates various features of 
 </tr>
   <tr>
   <td>
-<a href="Editor/Editors/Controls">Drop Down Button</a>
+<a href="Editor/Editors/Controls">Drop-Down Button</a>
 </td>
   <td>
 <a href="SfDataGrid/Tutorials">MultiColumn Drop-Down</a>
