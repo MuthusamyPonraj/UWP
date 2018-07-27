@@ -311,13 +311,6 @@ Radial Slider
 <a href="ProgressBar">Progress Bar</a>
 </td>
 </tr>
-<tr>
-<td>
-Pull-To-Refresh
-</td>
-<td/>
-<td/>
-</tr>
 
 <tr>
  <td colspan="3" rowspan="1">
