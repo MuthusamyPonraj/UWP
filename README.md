@@ -88,7 +88,7 @@ This repository contains the demo samples that demonstrates various features of 
 <a href="RangeSlider">Range Slider</a>
 </td>
   <td>
-Radial Slider
+<a href="Navigation/RadialMenu">Radial Slider</a>
 </td>
 
 <td>
