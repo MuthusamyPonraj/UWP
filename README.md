@@ -156,7 +156,7 @@ This repository contains the demo samples that demonstrates various features of 
       
 <tr>
 <td colspan="3" rowspan="1">
-<b>Navigation<b>
+<b>NAVIGATION<b>
 </td>
 </tr>  
 
@@ -183,7 +183,7 @@ This repository contains the demo samples that demonstrates various features of 
 
 <tr>
     <td colspan="3" rowspan="1">
-    <b>Editors<b>
+    <b>EDITORS<b>
     </td>
 </tr>
 <tr>
@@ -270,7 +270,7 @@ Radial Slider
 
 <tr>
     <td colspan="3" rowspan="1">
-    <b>Layout<b>
+    <b>LAYOUT<b>
     </td>
 </tr> 
 <tr>
@@ -296,7 +296,7 @@ Radial Slider
       
 <tr>
  <td colspan="3" rowspan="1">
-  <b>Notification<b>
+  <b>NOTIFICATION<b>
  </td>
 </tr>
    
@@ -321,7 +321,7 @@ Pull-To-Refresh
 
 <tr>
  <td colspan="3" rowspan="1">
-  <b>Miscellaneous<b>
+  <b>MISCELLANEOUS<b>
  </td>
 </tr>
 <tr>
@@ -336,7 +336,7 @@ Pull-To-Refresh
    
 <tr>
  <td colspan="3" rowspan="1">
-  <b>Data Science<b>
+  <b>DATA SCIENCE<b>
  </td>
 </tr>
 <tr>
@@ -349,7 +349,7 @@ Pull-To-Refresh
 
 <tr>
  <td colspan="3" rowspan="1">
-  <b>Reporting<b>
+  <b>REPORTING<b>
  </td>
 </tr>
 <tr>
