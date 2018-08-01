@@ -1,1 +1,0 @@
-Binaries,DICOM.WPF,ReportBuilder.WPF,Reporting,Showcase,TestStudio,DashboardDesigner.WPF.dll.Design,Design.WPF.Controls
