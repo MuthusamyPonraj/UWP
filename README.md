@@ -76,7 +76,7 @@ The easiest way to use these samples without using Git is to download the zip fi
 </tr>
   <tr>
   <td>
-<a href="Editor/Editors/Controls">Drop-Down Button</a>
+<a href="Editor/Editors/Controls/DropDownDemo.xaml">Drop-Down Button</a>
 </td>
   <td>
 <a href="SfDataGrid/Tutorials">MultiColumn Drop-Down</a>
@@ -131,7 +131,7 @@ The easiest way to use these samples without using Git is to download the zip fi
 </td>
 
 <td>
-<a href="Editor/ColorPickers/View/View">ColorPicker</a>
+<a href="Editor/ColorPickers/View">ColorPicker</a>
 </td>
   </tr>
   <tr>
