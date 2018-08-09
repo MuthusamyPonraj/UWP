@@ -65,10 +65,10 @@ The easiest way to use these samples without using Git is to download the zip fi
 </tr>
 <tr>
 <td>
-<a href="Editors/Controls/TextEdit">Text Box</a>
+<a href="Editor/Editors/Controls/TextEdit">TextBox</a>
 </td>
 <td>
-<a href="Editors/Controls/ComboBox">Combo Box</a>
+<a href="Editor/Editors/Controls/ComboBox">ComboBox</a>
 </td>
 <td>
 <a href="SfCellGrid">Cell Grid</a>
@@ -82,64 +82,64 @@ The easiest way to use these samples without using Git is to download the zip fi
 <a href="SfDataGrid/Tutorials">MultiColumn Drop-Down</a>
 </td>
 <td>
-<a href="Editor/DateTimePickers">Date Picker</a>
+<a href="Editor/DateTimePickers">DatePicker</a>
 </td>
 
 
 </tr>
    <tr>
    <td>
-<a href="Editor/DateTimePickers">Time Picker</a>
+<a href="Editor/DateTimePickers">TimePicker</a>
 </td>
 <td>
-<a href="Calendar">Calender</a>
+<a href="Editor/Calendar">Calendar</a>
 </td>
    <td>
-<a href="Editors/Controls/NumericTextEdit">Numeric Text Box</a>
+<a href="Editor/Editors/Controls/NumericTextEdit">NumericTextBox</a>
 </td>
 
   </tr>
    <tr>
    <td>
-  <a href="NumericUpDown">Numeric Up-Down</a>
+  <a href="Editor/Editors/Controls/NumericUpDown">NumericUpDown</a>
 </td>
 <td>
-<a href="DomainUpDown">Domain Up-Down</a>
+<a href="Editor/Editors/Controls/DomainUpDown">DomainUpDown</a>
 </td>
 <td>
-<a href="DateTimePickers">Date-Time Combo</a>
+<a href="Editor/DateTimePickers">DateTimeCombo</a>
 </td>
 </tr>
   <tr>
   <td>
-<a href="Editors/Controls/MaskedEdit">Masked Text Box</a>
+<a href="Editor/Editors/Controls/MaskedEdit">MaskedTextBox</a>
 </td>
 <td>
-<a href="Editors/Controls/CalculatorSample.xaml">Calculator</a>
+<a href="Editor/Editors/Controls/CalculatorSample.xaml">Calculator</a>
 </td>
 <td>
-  <a href="RatingControl">Rating</a>
+  <a href="Editor/Editors/Controls/RatingControl">Rating</a>
 </td>
 
   </tr>
   <tr>
   <td>
-<a href="RangeSlider">Range Slider</a>
+<a href="Editor/Editors/Controls/RangeSlider.xaml">RangeSlider</a>
 </td>
   <td>
-<a href="Navigation/RadialMenu">Radial Slider</a>
+<a href="Navigation/RadialMenu">RadialSlider</a>
 </td>
 
 <td>
-<a href="ColorPickers/View">Color Picker</a>
+<a href="Editor/ColorPickers/View/View">ColorPicker</a>
 </td>
   </tr>
   <tr>
   <td>
-<a href="ColorPickers/View">Color palette</a>
+<a href="Editor/ColorPickers/View/ColorPaletteView.xaml">ColorPalette</a>
 </td>
 <td>
-  <a href="Picker">Picker</a>
+  <a href="Editor/Picker">Picker</a>
   </td>
   <td/>
   </tr>
@@ -168,10 +168,10 @@ The easiest way to use these samples without using Git is to download the zip fi
 </td>
 
   <td>
-<a href="SfGantt">Gannt</a>
+<a href="SfGantt">Gantt</a>
 </td>
 <td>
-<a href="Barcode">Bar Code</a>
+<a href="Barcode">Barcode</a>
 </td>
 
 
@@ -184,14 +184,14 @@ The easiest way to use these samples without using Git is to download the zip fi
 <a href="MapControl">Maps</a> 
 </td>
   <td>
-<a href="TreeMap">Tree Map</a>
+<a href="TreeMap">TreeMap</a>
 </td>
 
 
 </tr>
    <tr>
    <td>
-<a href="ImageEditor">Image Editor</a>
+<a href="ImageEditor">ImageEditor</a>
 </td>
 <td>
 <a href="SfRangeNavigator">Range Navigator</a>
@@ -217,7 +217,7 @@ The easiest way to use these samples without using Git is to download the zip fi
 <a href="Gauge">Digital Gauge</a>
 </td>
 <td>
-<a href="BulletGraph">Bullet Graph</a>
+<a href="BulletGraph">BulletGraph</a>
 </td>
 <td>
 <a href="HeatMap">Heat Map</a>
@@ -231,21 +231,21 @@ The easiest way to use these samples without using Git is to download the zip fi
 </tr> 
 <tr>
 <td>
-<a href="Docking%20Manager">Docking Manager</a>
+<a href="Layout/Docking%20Manager">Docking Manager</a>
 </td>
 <td>
-<a href="TileView">Tile View</a>
+<a href="Layout/TileView">Tile View</a>
 </td>
 <td>
-<a href="Carousel">Carousel</a>
+<a href="Layout/Carousel">Carousel</a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="Accordion">Accordion</a>
+<a href="Layout/Accordion">Accordion</a>
 </td>
 <td>
-<a href="Ribbon">Ribbon</a>
+<a href="Layout/Ribbon">Ribbon</a>
 </td>
 <td/>
 </tr>
@@ -258,23 +258,23 @@ The easiest way to use these samples without using Git is to download the zip fi
 
 <tr>
 <td>
-<a href="TabControl">Tab</a>
+<a href="Navigation/TabControl">Tab</a>
 </td>
 <td>
-<a href="RadialMenu">Radial Menu</a>
+<a href="Navigation/RadialMenu">Radial Menu</a>
 </td>
 <td>
 <a href="Navigation">Tree Navigator</a>
 </td>
 </tr>
 <tr>
-  <td>Rotator</td>
 <td>
-<a href="GroupBar">Group Bar</a>
+<a href="Navigation/GroupBar">Group Bar</a>
 </td>
-<td colspan="2" rowspan="1">
-<a href="Menu">Menu</a>
+<td>
+<a href="Navigation/Menu">Menu</a>
 </td>
+<td/>
 </tr>
 
 <tr>
@@ -289,7 +289,7 @@ The easiest way to use these samples without using Git is to download the zip fi
 </td>
 
 <td>
-<a href="RichTextEditor">Rich Text Box</a>
+<a href="RichTextEditor">RichTextBox</a>
 </td>
 
 <td>
@@ -305,13 +305,13 @@ The easiest way to use these samples without using Git is to download the zip fi
    
    <tr>
 <td>
-<a href="BusyIndicator">Busy Indicator</a>
+<a href="Navigation/BusyIndicator">BusyIndicator</a>
 </td>
 <td>
-<a href="HubTiles">Hub Tile</a>
+<a href="Navigation/HubTiles">Hub Tile</a>
 </td>
 <td>
-<a href="ProgressBar">Progress Bar</a>
+<a href="Navigation/ProgressBar">ProgressBar</a>
 </td>
 </tr>
 
@@ -333,7 +333,7 @@ The easiest way to use these samples without using Git is to download the zip fi
 </tr>
 <tr>
 <td>
-<a href="Presentation">Power Point</a>
+<a href="Presentation">PowerPoint</a>
 </td>
   <td/>
   <td/>
@@ -386,7 +386,7 @@ The easiest way to use these samples without using Git is to download the zip fi
 <a href="Calculate">Calculate</a>
 </td>
 <td>
-<a href="SpellChecker">Spell Checker</a>
+<a href="Editor/SpellChecker">Spell Checker</a>
 </td>
 <td/>
 </tr>
