@@ -370,7 +370,7 @@ The easiest way to use these samples without using Git is to download the zip fi
 </tr>
 <tr>
 <td>
-<a href="PivotClient">Pivot Client(Preview)</a>
+<a href="PivotClient">Pivot Client</a>
 </td>
 <td/>
 <td/>
